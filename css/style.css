@@ -67,9 +67,10 @@ Table of content:
 @import url("../fonts/fontawesome6/css/solid.css");
 @import url("../fonts/elegant_font/HTML_CSS/style.css");
 @import url("../fonts/et-line-font/style.css");
+@import url("../fonts/fontawesome4/css/Mraz.ttf");
 
 * {
-  --title-font: "Oxanium", Helvetica, Arial, sans-serif;
+  --title-font: url("../fonts/fontawesome4/css/Mraz.ttf");
   --body-font: "Manrope", Helvetica, Arial, sans-serif;
   --body-font-weight: 500;
   --border-default: solid 1px rgba(30, 30, 30, 1);
